@@ -1,0 +1,28 @@
+main {
+    display: flex
+}
+section{
+    border: 1px solid #000;
+}
+img{
+    max-width: 100%;
+}
+
+.info{
+    width: 20%;
+    padding: 30px;
+}
+
+.info img{
+    border-radius: 50%;
+}
+
+        .curriculo {
+    width: 75%;
+}
+
+footer{
+    background-color: blue;
+    padding: 10px 0;
+text-align: center;
+}
